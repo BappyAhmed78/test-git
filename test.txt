@@ -1,2 +1,0 @@
-Hello World! I love code. I want to be a good software developer.
-this is my first git learning process.
